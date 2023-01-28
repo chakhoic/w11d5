@@ -7,6 +7,7 @@ function random100() {
   return Math.floor(Math.random() * 100) + 1;
 }
 
+
 function randomImage() {
   const images = [
     "/images/pokemon_berry.svg",
